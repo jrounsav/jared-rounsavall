@@ -1,0 +1,11 @@
+{
+  "name": "jared-rounsavall",
+  "version": "1.0.0",
+  "description": "Jared Rounsavall is a real human & software developer. Add him to your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared Rounsavall",
+  "license": "ISC"
+}
