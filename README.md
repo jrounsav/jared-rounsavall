@@ -11,18 +11,23 @@ npm i --save jared-rounsavall
 
 # Useful
 
-Ask me useful things through code like: 
-- "how was your day" 
+Ask me useful things through code like:
+
+- "how was your day"
 - "how do I cook a thanksgiving dinner"
 
 # Humble
 
 Nobody who codeified themselves into a dependency could ever be anything else.
 
+# A E S T H E T I C
+
+Your project will probably get more attention with me involved, which is nice.
+
 # Contributing
 
 Please Don't
 
-# A E S T H E T I C
+# Want More?
 
-Your project will probably get more attention with me involved, which is nice
+[Of course you do.](http://jaredrounsavall.com)
