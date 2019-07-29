@@ -4,6 +4,7 @@ import Conversation from "./Conversation";
 function init(config) {
   this.Configuration = config;
 }
+
 const Jared = {
   init,
   Configuration: {

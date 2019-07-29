@@ -27,6 +27,7 @@ async function learn(job) {
 }
 
 function hasSkill(job) {
+  const k = 0;
   return getSkills().includes(job);
 }
 

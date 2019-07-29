@@ -4,8 +4,24 @@
   "description": "Jared Rounsavall is a real human & software developer. Add him to your project.",
   "main": "index.js",
   "scripts": {
+    "type-check": "tsc --noEmit",
+    "start": "npm run type-check -- --watch",
+    "build": "npm run build:types && npm run build:js",
+    "build:types": "tsc",
+    "build:js": "babel src --out-dir lib --extensions \".ts,.tsx\" --source-maps inline",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jared Rounsavall",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-proposal-numeric-separator": "^7.2.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-typescript": "^7.3.3",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  }
 }

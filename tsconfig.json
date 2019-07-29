@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "noEmit": true,
+    "isolatedModules": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "lib": ["es6", "dom", "es2017"]
+  },
+  "include": ["src"]
+}
