@@ -82,7 +82,7 @@ I want to grow and build things that people enjoy.
 Hopefully I can do something innovative along the way that people will appreciate.
 
 # Want More?
-Please forgive the sparse [Github]([https://github.com/jrounsav](https://github.com/jrounsav)), as I've lived on a team GitLab for a long time!
+Please forgive the sparse [Github](https://github.com/jrounsav), as I've lived on a team GitLab for a long time!
 
 If you'd like to see some more about me then please [check out my site.](http://jaredrounsavall.com)
 
