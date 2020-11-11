@@ -60,8 +60,9 @@ Let's build something cool!
 
 # Skills
 
-* AWS Development & Architecture
+* AWS & GCP
 * React Native, ReactJS, Angular, jQuery
+* GQL
 * Vanilla JS, PHP, C++, C#, Java
 * MySQL, NoSQL
 * Drupal, Wordpress
