@@ -22,7 +22,7 @@ Let's build something cool!
 
 ### Keap
 *September 2019 - Now*
-- **SE3, Tech Lead Mobile** *September 2019 - Now*
+- **SE3, Tech Lead** *September 2019 - Now*
 	- Keap mobile app
 	- Keap business line
 
