@@ -20,9 +20,15 @@ Let's build something cool!
 
 # Work History
 
+### Keap
+*September 2019 - Now*
+- **SE3, Tech Lead Mobile** *September 2019 - Now*
+	- Keap mobile app
+	- Keap business line
+
 ### Arizona State University, UTO
-*August 2014 - Current*
-- **Systems Analyst, Mobile & IoT** *September 2017 - Now*
+*August 2014 - September 2019*
+- **Systems Analyst, Mobile & IoT** *September 2017 - September 2019*
 	- ASU Mobile App v6
 	- Mapbox Web App
 	- ASU Carts App
