@@ -59,8 +59,6 @@ Let's build something cool!
 	- App Design
 
 # Skills
-I am lucky enough to have been exposed to a large number of Apps & Projects that have allowed me to develop a wide range of skills in application development.
-This list will continue grow and evolve to meet business needs, as well as my own interests.
 
 * AWS Development & Architecture
 * React Native, ReactJS, Angular, jQuery
