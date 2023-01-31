@@ -24,7 +24,7 @@ When I'm not taking care of business, you might find me cooking, hiking, writing
 ## **Lessen**
 *Property tech, May 2022 - Now*
 
-**Senior Software Engineer**
+### Senior Software Engineer
 
 *(React Native, NestJS, Kafka, Java, Amazon Web Services)*
 
@@ -38,7 +38,7 @@ Tech lead of an Agile team tasked with optimizing the workflows of "Field Projec
 ## **Keap**
 *Small-business CRM, September 2019 - May 2022*
 
-**Software Engineer III, Tech Lead** 
+### Software Engineer III, Tech Lead
 
 *(React Native, Node/ExpressJS, Twilio, Google Cloud)*
 
@@ -52,7 +52,7 @@ Tech lead of a full-stack, Agile, development team with a focus on providing sma
 ## **Arizona State University, UTO**
 *Higher Education, August 2014 - September 2019*
 
-**Systems Analyst, Mobile & IoT**
+### Systems Analyst, Mobile & IoT
 
 _(React Native, Drupal, Arduino, Unity, Amazon Web Services)_
 
@@ -65,7 +65,7 @@ Individual contributor on a full-stack team, deliver new & exciting experiences 
 - Optimized student event ticketing with an in-house QR ticketing application.
 - Accelerated application development with a reusable authentication package.
  
-**Website Specialist, Apps & Design**
+### Website Specialist, Apps & Design
 
 *(Drupal, Wordpress, JavaScript, PHP, MySQL)*
 
