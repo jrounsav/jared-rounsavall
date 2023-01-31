@@ -1,94 +1,87 @@
 ﻿
 # Jared Rounsavall
-Ever wondered what it would be like to have a real human living in your codebase?
-Well now you can do that, so stop wondering and add me as a dependency to your latest JavaScript project.
+
+[github](https://github.com/jrounsav) | [website](http://jaredrounsavall.com) | [linkedIn](https://www.linkedin.com/in/jared-rounsavall-a73b6858)
 
 ```
 npm i jared-rounsavall
 ```
----
 
-*If you're here by accident* [let's connect](https://www.linkedin.com/in/jared-rounsavall-a73b6858/)
+Whether it's as an individual contributor or tech lead, I'm really passionate about solving cool problems. Finding the line between delivery for immediate business needs and "future-proofing" is a practice that I find super engaging.
 
-*But if you're here for business purposes..*
+When I'm not taking care of business, you might find me cooking, hiking, writing or lifting some weights. Live music & a stiff drink can be pretty nice too.  
 
-Self-driven and goal oriented, I'm always looking for new ways to challenge and improve myself.
-
-I love working closely with both teams & stakeholders in an open and transparent development process. A regular dialogue with firm expectations (both internally and externally) makes development more fun and encourages cooperation between groups.
-
-Let's build something cool!
-
-# Work History
-
-### Keap
-*September 2019 - Now*
-- **SE3, Tech Lead** *September 2019 - Now*
-	- Keap mobile app
-	- Keap business line
-
-### Arizona State University, UTO
-*August 2014 - September 2019*
-- **Systems Analyst, Mobile & IoT** *September 2017 - September 2019*
-	- ASU Mobile App v6
-	- Mapbox Web App
-	- ASU Carts App
-	- Art of the Possible Stadium Suite
-	- Community 365 Ticket App
-	- Web Application Authentication
-- **Website Specialist, Apps & Design** *May 2017 - Sept. 2017*
-	- ASU Global Header & Footer
-	- ASU Google Tag Manager
-	- Webspark
-	- Unity StaCK
-- **Systems Analyst Associate, Apps & Design** *Aug 2015 - May 2017*
-	- Drupal Site Builder
-	- ASU RFI Module
-	- ASU Mega Menu
-- **Student Web Developer, Apps & Design** *Aug 2014 - Aug 2015*
-	- ASU Mobile App v5
-	- ASU Campus Bird Map
-	- Site Building
-	- Web Consulting
-
-### Rounsavall Web Development, LLC
-*August 2011-Current*
-- Owner & Freelance developer
-	- Site building
-	- SEO
-	- Consultation
-	- App Design
+[Let's connect!](https://www.linkedin.com/in/jared-rounsavall-a73b6858/)
 
 # Skills
 
-* AWS & GCP
-* React Native, ReactJS, Angular, jQuery
-* GQL
-* Vanilla JS, PHP, C++, C#, Java
-* MySQL, NoSQL
-* Drupal, Wordpress
-* Pantheon
-* Adobe Photoshop, Illustrator, XD
-* Google Tag Manager
-* Python, Bash
-* Git (Github & Gitlab environments)
-* npm, yarn
-* Lerna, Storybook
-* Jenkins
-* Unity
+**Languages**: JavaScript, TypeScript, Java, Kotlin, Swift, PHP, Python, C/C++
 
-# Goals
+**Skills**: Amazon Web Services, Google Cloud Platform, React, React Native, GraphQL, SQL, NoSQL, Kafka, Adobe Suite, Drupal, WordPress, Google Tag Manager, Technical Writing
 
-"The more I learn, the more I realize how little I know."
+# Work History
 
-Realizing how much there is to learn and how many opportunities for improvement there are encourages me to tackle any challenge head-on.
+### **Lessen**
+*Property tech, May 2022 - Now*
 
-I want to grow and build things that people enjoy.
+**Senior Software Engineer**
 
-Hopefully I can do something innovative along the way that people will appreciate.
+*(React Native, NestJS, Kafka, Java, Amazon Web Services)*
 
-# Want More?
-Please forgive the sparse [Github](https://github.com/jrounsav), as I've lived on a team GitLab for a long time!
+Tech lead of an Agile team tasked with optimizing the workflows of "Field Project Managers" in order to rapidly increase the number of projects that could be completed in a single day by employees.
 
-If you'd like to see some more about me then please [check out my site.](http://jaredrounsavall.com)
+- Increased the number of tasks that field employees could complete in a single day by consolidating workflows into a single mobile application.
+- Provided project insight to managers through an enriched dashboard experience on the web.
+- Improved team delivery pace by removing friction in the development process.
+- Generated buy-in for technical projects & pivots with write-ups for both technical and non-technical readers.
 
-or drop me an email at jrouns@gmail.com
+### **Keap**
+*Small-business CRM, September 2019 - May 2022*
+
+**Software Engineer III, Tech Lead** 
+
+*(React Native, Node/ExpressJS, Twilio, Google Cloud)*
+
+Tech lead of a full-stack, Agile, development team with a focus on providing small-business owners with everything they need to manage, communicate & automate business interactions from their mobile device.
+
+- Successfully lead during the first year of the pandemic
+- Reduced the time it took for business owners to contact & respond to leads
+- Allowed owners to manage their appointments on-the-go
+- Collaborated closely with 3rd-parties and stakeholders to integrate various platforms
+
+### **Arizona State University, UTO**
+*Higher Education, August 2014 - September 2019*
+
+**Systems Analyst, Mobile & IoT**
+
+_(React Native, Drupal, Arduino, Unity, Amazon Web Services)_
+
+Individual contributor on a full-stack team, deliver new & exciting experiences for students, faculty & staff at Arizona State University.
+
+- Empowered students to manage their University experience from their mobile device.
+- Enabled easy campus navigation with a custom campus mapping solution. 
+- Simplified campus travel with a golf-cart rental app.
+- Demonstrated the power of IoT in Sun Devil Stadium through demonstrations, displays and interactive jumbotron games.
+- Optimized student event ticketing with an in-house QR ticketing application.
+- Accelerated application development with a reusable authentication package.
+ 
+**Website Specialist, Apps & Design**
+
+*(Drupal, Wordpress, JavaScript, PHP, MySQL)*
+
+Individual contributor providing Drupal development and consultation for ASU's University Tech Offices, as well as the many colleges and organizations throughout the institution.
+
+- Simplified the creation & management of ASU websites with a custom Drupal distribution. 
+- Improved student acquisition for all colleges with a "Request for Information" that could be applied to all college websites.
+- Standardized college website styling with reusable web components and shareable styling libraries & guides.
+- Optimized data collection through the use of Google Tag manager.
+- Enabled the success of college websites through active consultation.
+
+### **Rounsavall Web Development, LLC**
+*August 2011-Current*
+
+Freelance website development, SEO & consulting.
+
+# Education
+
+**Mesa Community College, AAS Web Development**
