@@ -9,9 +9,7 @@ npm i jared-rounsavall
 
 Whether it's as an individual contributor or tech lead, I'm really passionate about solving cool problems. Finding the line between delivery for immediate business needs and "future-proofing" is a practice that I find super engaging.
 
-When I'm not taking care of business, you might find me cooking, hiking, writing or lifting some weights. Live music & a stiff drink can be pretty nice too.  
-
-[Let's connect!](https://www.linkedin.com/in/jared-rounsavall-a73b6858/)
+When I'm not taking care of business, you might find me cooking, hiking, writing or lifting some weights. Live music & a stiff drink can be pretty nice too.
 
 # Skills
 
