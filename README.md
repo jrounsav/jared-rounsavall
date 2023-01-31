@@ -21,7 +21,7 @@ When I'm not taking care of business, you might find me cooking, hiking, writing
 
 # Work History
 
-### **Lessen**
+## **Lessen**
 *Property tech, May 2022 - Now*
 
 **Senior Software Engineer**
@@ -35,7 +35,7 @@ Tech lead of an Agile team tasked with optimizing the workflows of "Field Projec
 - Improved team delivery pace by removing friction in the development process.
 - Generated buy-in for technical projects & pivots with write-ups for both technical and non-technical readers.
 
-### **Keap**
+## **Keap**
 *Small-business CRM, September 2019 - May 2022*
 
 **Software Engineer III, Tech Lead** 
@@ -49,7 +49,7 @@ Tech lead of a full-stack, Agile, development team with a focus on providing sma
 - Allowed owners to manage their appointments on-the-go
 - Collaborated closely with 3rd-parties and stakeholders to integrate various platforms
 
-### **Arizona State University, UTO**
+## **Arizona State University, UTO**
 *Higher Education, August 2014 - September 2019*
 
 **Systems Analyst, Mobile & IoT**
@@ -77,7 +77,7 @@ Individual contributor providing Drupal development and consultation for ASU's U
 - Optimized data collection through the use of Google Tag manager.
 - Enabled the success of college websites through active consultation.
 
-### **Rounsavall Web Development, LLC**
+## **Rounsavall Web Development, LLC**
 *August 2011-Current*
 
 Freelance website development, SEO & consulting.
