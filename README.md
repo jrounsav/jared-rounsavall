@@ -1,7 +1,7 @@
 ﻿
 # Jared Rounsavall
 
-[github](https://github.com/jrounsav) | [website](http://jaredrounsavall.com) | [linkedIn](https://www.linkedin.com/in/jared-rounsavall-a73b6858)
+[github](https://github.com/jrounsav) | [website](http://jaredrounsavall.com) | [linkedIn](https://www.linkedin.com/in/jared-rounsavall)
 
 ```
 npm i jared-rounsavall
