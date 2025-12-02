@@ -1,4 +1,4 @@
-﻿
+
 # Jared Rounsavall
 
 [github](https://github.com/jrounsav) | [website](http://jaredrounsavall.com) | [linkedIn](https://www.linkedin.com/in/jared-rounsavall)
@@ -7,9 +7,7 @@
 npm i jared-rounsavall
 ```
 
-Whether it's as an individual contributor or tech lead, I'm really passionate about solving cool problems. Finding the line between delivery for immediate business needs and "future-proofing" is a practice that I find super engaging.
-
-When I'm not taking care of business, you might find me cooking, hiking, writing or lifting some weights. Live music & a stiff drink can be pretty nice too.
+Experienced Software Engineer committed to delivering robust solutions that meet immediate business needs while ensuring long-term system health. I thrive in both individual contributor and leadership roles, focusing on technical excellence and strategic problem-solving.
 
 # Skills
 
@@ -19,14 +17,34 @@ When I'm not taking care of business, you might find me cooking, hiking, writing
 
 # Work History
 
+## **Endpoint**
+*Closing, September 2023 - Present*
+
+### Senior Software Engineer
+
+*(Python, React, AWS, Docker, Kubernetes)*
+
+**Jot (Mobile Notary Platform)**
+*September 2023 - March 2024*
+
+- Modernized the application's data validation layer by upgrading Pydantic, enhancing data parsing and schema definition capabilities for the Python backend.
+- Implemented significant CI/CD pipeline improvements, increasing deployment reliability and speed.
+- Contributed to the development and maintenance of the mobile notary platform.
+
+**Communications Team**
+*March 2024 - Present*
+
+- Consolidated all user communications into a single, unified page to improve operational efficiency by leveraging the Zendesk API.
+- Integrated Veracode to enhance application security and compliance.
+
 ## **Lessen**
-*Property tech, May 2022 - Now*
+*Property tech, May 2022 - September 2023*
 
 ### Senior Software Engineer
 
 *(React Native, NestJS, Kafka, Java, Amazon Web Services)*
 
-Tech lead of an Agile team tasked with optimizing the workflows of "Field Project Managers" in order to rapidly increase the number of projects that could be completed in a single day by employees.
+Spearheaded the optimization of Field Project Manager workflows, driving a significant increase in daily project completions through a unified mobile experience.
 
 - Increased the number of tasks that field employees could complete in a single day by consolidating workflows into a single mobile application.
 - Provided project insight to managers through an enriched dashboard experience on the web.
@@ -40,7 +58,7 @@ Tech lead of an Agile team tasked with optimizing the workflows of "Field Projec
 
 *(React Native, Node/ExpressJS, Twilio, Google Cloud)*
 
-Tech lead of a full-stack, Agile, development team with a focus on providing small-business owners with everything they need to manage, communicate & automate business interactions from their mobile device.
+Led a full-stack agile team dedicated to empowering small-business owners with comprehensive mobile tools for management, communication, and automation.
 
 - Successfully lead during the first year of the pandemic
 - Reduced the time it took for business owners to contact & respond to leads
@@ -54,7 +72,7 @@ Tech lead of a full-stack, Agile, development team with a focus on providing sma
 
 _(React Native, Drupal, Arduino, Unity, Amazon Web Services)_
 
-Individual contributor on a full-stack team, deliver new & exciting experiences for students, faculty & staff at Arizona State University.
+Delivered innovative full-stack solutions enhancing the digital experience for students, faculty, and staff across the university ecosystem.
 
 - Empowered students to manage their University experience from their mobile device.
 - Enabled easy campus navigation with a custom campus mapping solution. 
@@ -67,7 +85,7 @@ Individual contributor on a full-stack team, deliver new & exciting experiences 
 
 *(Drupal, Wordpress, JavaScript, PHP, MySQL)*
 
-Individual contributor providing Drupal development and consultation for ASU's University Tech Offices, as well as the many colleges and organizations throughout the institution.
+Provided expert Drupal development and consultation, streamlining web presence for University Tech Offices and various colleges.
 
 - Simplified the creation & management of ASU websites with a custom Drupal distribution. 
 - Improved student acquisition for all colleges with a "Request for Information" that could be applied to all college websites.
@@ -83,3 +101,7 @@ Freelance website development, SEO & consulting.
 # Education
 
 **Mesa Community College, AAS Web Development**
+
+# Hobbies
+
+Cooking, hiking, writing, weightlifting, and live music.
